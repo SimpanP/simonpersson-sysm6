@@ -1,0 +1,11 @@
+.footer-container {
+  bottom: 0;
+  width: 100%;
+  height: 90px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  margin: 15px;
+}

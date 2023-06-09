@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+build/assets/chiili-cheese.png
+build/assets/chiili-cheese.png
+*.png
+*.png
+public/assets/chiili-cheese.png

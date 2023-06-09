@@ -1,0 +1,151 @@
+.checkout-title {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.firstname {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.lastname {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.email {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.city {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.address {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.housenumber {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.input-swish-number {
+  display: flex;
+  margin-left: 27px;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-phonenumber {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.input-credit-card {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: #fff;
+}
+
+.input-credit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.acceptance {
+  text-align: center;
+  color: white;
+}
+
+.payment-container {
+  display: block;
+  align-items: end;
+  justify-content: end;
+  margin-right: 30px;
+}
+
+.pay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-pay-style {
+  font-size: 16px;
+  margin-top: 10px;
+  font-family: "Kumbh Sans" sans-serif;
+  border: none;
+  font-weight: bold;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: #79addc;
+}
+
+.btn-pay-style:hover {
+  color: #f2f7a1;
+}

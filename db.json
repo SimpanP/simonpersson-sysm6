@@ -1,0 +1,157 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Special Deluxe",
+      "category": "burgers",
+      "description": "An exquisite combination of premium ingredients including wagyu beef, truffle aioli, and aged cheddar, served on a brioche bun.",
+      "price": 20,
+      "image": "burger-1.png",
+      "totalprice": ""
+    },
+    {
+      "id": 2,
+      "name": "Cheesy BBQ",
+      "category": "burgers",
+      "description": "A mouthwatering burger featuring a juicy beef patty smothered in melted cheddar cheese and tangy barbecue sauce.",
+      "price": 16,
+      "image": "burger-2.png",
+      "totalprice": ""
+    },
+    {
+      "id": 3,
+      "name": "Ultimate Bacon",
+      "category": "burgers",
+      "description": "Indulge in this delectable burger topped with crispy bacon, lettuce, tomato, and zesty mayo.",
+      "price": 22,
+      "image": "burger-3.png",
+      "totalprice": ""
+    },
+    {
+      "id": 4,
+      "name": "Mushroom Madness",
+      "category": "burgers",
+      "description": "Savor the rich flavors of this gourmet burger adorned with sautéed mushrooms and melted Swiss cheese.",
+      "price": 23,
+      "image": "burger-4.png",
+      "totalprice": ""
+    },
+    {
+      "id": 5,
+      "name": "Smoky Ranch",
+      "category": "burgers",
+      "description": "A tantalizing barbecue burger featuring smoky ranch sauce, crispy onion rings, and tangy pickles.",
+      "price": 26,
+      "image": "burger-5.png",
+      "totalprice": ""
+    },
+    {
+      "id": 6,
+      "name": "Fiery Jalapeno",
+      "category": "burgers",
+      "description": "Feel the heat with this fiery burger topped with sliced jalapenos, pepper jack cheese, and chipotle mayo.",
+      "price": 18,
+      "image": "burger-6.png",
+      "totalprice": ""
+    },
+    {
+      "id": 7,
+      "name": "Avocado Bliss",
+      "category": "burgers",
+      "description": "Indulge in a healthier option with a turkey patty, sliced avocado, crisp lettuce, and ripe tomato.",
+      "price": 30,
+      "image": "burger-7.png",
+      "totalprice": ""
+    },
+    {
+      "id": 8,
+      "name": "Beyond Burger",
+      "category": "burgers",
+      "description": "A vegetarian delight featuring a plant-based patty, fresh lettuce, ripe tomato, and special sauce. (Not really a veggie burger)",
+      "price": 32,
+      "image": "burger-8.png",
+      "totalprice": ""
+    },
+    {
+      "id": 9,
+      "name": "Double Bacon Extravaganza",
+      "category": "burgers",
+      "description": "For the ultimate burger experience, enjoy two juicy beef patties, double bacon, and melted cheese.",
+      "price": 36,
+      "image": "burger-9.png",
+      "totalprice": ""
+    },
+    {
+      "id": 10,
+      "name": "Classic Fries",
+      "category": "sides",
+      "description": "Crispy golden fries seasoned to perfection with just the right amount of salt and pepper.",
+      "price": 4,
+      "image": "fries-1.png",
+      "totalprice": ""
+    },
+    {
+      "id": 11,
+      "name": "Sweet Potato Delight",
+      "category": "sides",
+      "description": "Enjoy the sweet and savory flavors of our crispy sweet potato fries seasoned with salt, pepper, and a touch of chili.",
+      "price": 5,
+      "image": "fries-2.png",
+      "totalprice": ""
+    },
+    {
+      "id": 12,
+      "name": "Choco Lovers' Delight",
+      "category": "drinks",
+      "description": "Satisfy your chocolate cravings with this creamy milkshake made with the finest chocolate ingredients.",
+      "price": 6,
+      "image": "milkshake-1.png",
+      "totalprice": ""
+    },
+    {
+      "id": 13,
+      "name": "Berry Bliss",
+      "category": "drinks",
+      "description": "Experience the refreshing taste of summer with our creamy milkshake made with luscious strawberry ice cream.",
+      "price": 6,
+      "image": "milkshake-2.png",
+      "totalprice": ""
+    },
+    {
+      "id": 14,
+      "name": "Craft Beer - Hoppy IPA",
+      "category": "drinks",
+      "description": "Savor the hoppy goodness of this pale ale beer, meticulously brewed and named after Frida.",
+      "price": 7,
+      "image": "soda-1.png",
+      "totalprice": ""
+    },
+    {
+      "id": 15,
+      "name": "Sparkling Tonic",
+      "category": "drinks",
+      "description": "Quench your thirst with this healthy and refreshing sparkling tonic.",
+      "price": 4,
+      "image": "soda-2.png",
+      "totalprice": ""
+    },
+    {
+      "id": 16,
+      "name": "Tropical Paradise",
+      "category": "drinks",
+      "description": "Transport yourself to a tropical paradise with this refreshing sparkling water sourced from China's best waterfalls.",
+      "price": 3,
+      "image": "soda-3.png",
+      "totalprice": ""
+    },
+    {
+      "id": 17,
+      "name": "Coconut Delight",
+      "category": "drinks",
+      "description": "Experience the tropical flavors of fresh coconut water straight from the coconut.",
+      "price": 8,
+      "image": "soda-4.png",
+      "totalprice": ""
+    }
+  ]
+}

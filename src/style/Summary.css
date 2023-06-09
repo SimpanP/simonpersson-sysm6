@@ -1,0 +1,27 @@
+.summary-container {
+  display: flex;
+  color: #fff;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.card-summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  font-family: "Kumbh Sans", sans-serif;
+  color: #fff;
+  width: 25%;
+  border-radius: 1%;
+}
+
+p {
+  font-family: "Kumbh Sans", sans-serif;
+  font-weight: semibold;
+  font-size: 20px;
+}

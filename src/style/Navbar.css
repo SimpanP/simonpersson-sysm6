@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+.navbar-container {
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+  padding: 0 10px;
+  color: #ffffff;
+}
+
+.icons-container {
+  display: flex;
+}
+
+.title-name {
+  color: #ffffff;
+  margin: 10px;
+}
+
+.cart-icon,
+.home-icon {
+  margin-right: 10px;
+  color: #ffffff;
+  font-size: 20px;
+}
